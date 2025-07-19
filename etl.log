@@ -1,0 +1,18 @@
+2025-07-19 12:37:58,635 - ERROR - Error in extract_data: File data/properties.json does not exist
+2025-07-19 12:37:58,636 - ERROR - Extraction failed, exiting
+2025-07-19 12:41:27,941 - INFO - Loaded 10000 records from data/fake_property_data.json
+2025-07-19 12:41:27,948 - ERROR - Error in extract_data: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2025-07-19 12:41:28,112 - ERROR - Extraction failed, exiting
+2025-07-19 12:43:49,688 - INFO - Loaded 10000 records from data/fake_property_data.json
+2025-07-19 12:43:50,131 - INFO - Loaded field config from data/Field Config.xlsx
+2025-07-19 12:43:58,686 - ERROR - Error connecting to MySQL: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+2025-07-19 15:18:28,495 - INFO - Loaded 10000 records from data/fake_property_data.json
+2025-07-19 15:18:29,033 - INFO - Loaded field config from data/Field Config.xlsx
+2025-07-19 15:18:33,650 - INFO - Connected to MySQL database
+2025-07-19 15:18:33,686 - ERROR - Error in load_data: Not all parameters were used in the SQL statement
+2025-07-19 15:18:33,704 - INFO - Database connection closed
+2025-07-19 15:58:45,591 - INFO - Loaded 10000 records from data/fake_property_data.json
+2025-07-19 15:58:46,330 - INFO - Loaded field config from data/Field Config.xlsx
+2025-07-19 15:58:51,419 - INFO - Connected to MySQL database
+2025-07-19 15:58:51,455 - ERROR - Error in load_data: Not all parameters were used in the SQL statement
+2025-07-19 15:58:51,474 - INFO - Database connection closed
